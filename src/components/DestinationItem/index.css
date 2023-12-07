@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 25vh;
+  width: 30vw;
+}
